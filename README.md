@@ -5,3 +5,4 @@ The project also evaluates how differences in the features of camouflage pattern
 <img src="https://github.com/skapura/camouflage-detector/blob/master/cadpat_marpat_output.jpg" width=400 height=300>
 
 
+<img src="https://github.com/skapura/camouflage-detector/blob/master/pencott_train_output.jpg" width=400 height=300>
